@@ -1,7 +1,5 @@
 /deep_learning_project.tgz
 *.ipynb_checkpoint
 *.pgm
-/test_images
-/train_images
 /torchsampler
 *.pth
