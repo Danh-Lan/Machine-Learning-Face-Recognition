@@ -48,6 +48,6 @@ Distributed under the MIT License.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-This project is part of the Machine Learning & Data Analytics course at INSA Lyon, instructed by Prof. Stefan Duffner.
+This project is a part of the Machine Learning & Data Analytics course at INSA Lyon, under the guidance of Prof. Stefan Duffner.
 
  
