@@ -1,4 +1,6 @@
 # Deep Learning Project - OT2 2023
+![](target_image_3.jpg) 
+![](result_target_image_3_segmented.png)
 ## About The Project
 This project is a simplified version of ImageNet. The objective is to design a face recognition software based on CNN. Users enter an image containing human faces, then the program returns an annotated image displaying green zones where faces have been detected.
 
